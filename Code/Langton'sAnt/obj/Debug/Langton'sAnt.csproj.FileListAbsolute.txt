@@ -1,0 +1,10 @@
+C:\Users\ayand\OneDrive\Desktop\Projects\Langton'sAnt\Langton'sAnt\bin\Debug\Langton'sAnt.exe.config
+C:\Users\ayand\OneDrive\Desktop\Projects\Langton'sAnt\Langton'sAnt\bin\Debug\Langton'sAnt.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\Langton'sAnt\Langton'sAnt\bin\Debug\Langton'sAnt.pdb
+C:\Users\ayand\OneDrive\Desktop\Projects\Langton'sAnt\Langton'sAnt\obj\Debug\Langton'sAnt.csproj.AssemblyReference.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Langton'sAnt\Langton'sAnt\obj\Debug\Langton_sAnt.Form1.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\Langton'sAnt\Langton'sAnt\obj\Debug\Langton_sAnt.Properties.Resources.resources
+C:\Users\ayand\OneDrive\Desktop\Projects\Langton'sAnt\Langton'sAnt\obj\Debug\Langton'sAnt.csproj.GenerateResource.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Langton'sAnt\Langton'sAnt\obj\Debug\Langton'sAnt.csproj.CoreCompileInputs.cache
+C:\Users\ayand\OneDrive\Desktop\Projects\Langton'sAnt\Langton'sAnt\obj\Debug\Langton'sAnt.exe
+C:\Users\ayand\OneDrive\Desktop\Projects\Langton'sAnt\Langton'sAnt\obj\Debug\Langton'sAnt.pdb
